@@ -1,0 +1,9 @@
+C:\Users\Lauren Dumler\Desktop\501_Project3\CIS501_Project3_VM_Project\CIS501_Project3_VM_Project\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe.config
+C:\Users\Lauren Dumler\Desktop\501_Project3\CIS501_Project3_VM_Project\CIS501_Project3_VM_Project\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe
+C:\Users\Lauren Dumler\Desktop\501_Project3\CIS501_Project3_VM_Project\CIS501_Project3_VM_Project\VendingMachine\VendingMachine\bin\Debug\VendingMachine.pdb
+C:\Users\Lauren Dumler\Desktop\501_Project3\CIS501_Project3_VM_Project\CIS501_Project3_VM_Project\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csprojResolveAssemblyReference.cache
+C:\Users\Lauren Dumler\Desktop\501_Project3\CIS501_Project3_VM_Project\CIS501_Project3_VM_Project\VendingMachine\VendingMachine\obj\Debug\VendingMachine.VendingMachine.resources
+C:\Users\Lauren Dumler\Desktop\501_Project3\CIS501_Project3_VM_Project\CIS501_Project3_VM_Project\VendingMachine\VendingMachine\obj\Debug\VendingMachine.Properties.Resources.resources
+C:\Users\Lauren Dumler\Desktop\501_Project3\CIS501_Project3_VM_Project\CIS501_Project3_VM_Project\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.GenerateResource.Cache
+C:\Users\Lauren Dumler\Desktop\501_Project3\CIS501_Project3_VM_Project\CIS501_Project3_VM_Project\VendingMachine\VendingMachine\obj\Debug\VendingMachine.exe
+C:\Users\Lauren Dumler\Desktop\501_Project3\CIS501_Project3_VM_Project\CIS501_Project3_VM_Project\VendingMachine\VendingMachine\obj\Debug\VendingMachine.pdb
